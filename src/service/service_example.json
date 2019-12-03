@@ -1,0 +1,20 @@
+{
+    "0": {
+      "moisture": 60,
+      "temperature": 27,
+      "humidity": 14,
+      "light": 6
+    },
+    "1": {
+      "moisture": 36,
+      "temperature": 26,
+      "humidity": 28,
+      "light": 8
+    },
+    "2": {
+      "moisture": 29,
+      "temperature": 0,
+      "humidity": 0,
+      "light": 3
+    }
+  }
